@@ -17,5 +17,5 @@ I'm Junior Developer <img src="https://media.giphy.com/media/LU5Bi4kbqJOFPpSmyF/
   ### :link: Other links:
   <div>
 <a  href="https://www.hackerrank.com/iymtree?hr_r=1"><img src="https://github.com/iymtee/icons/blob/361fdebcae53eb23751e3fadba11be2f6d8b84c7/hackerrank.svg" title="HackerRank" alt="HackerRank" width="40" height="40" "backgraungd=white"/></a>&nbsp;
-  <a  href="https://bryansk.hh.ru/resume/51928eadff09636dc70039ed1f79724e454166"><img src="https://github.com/iymtee/icons/blob/18a04472a108aa5b0455507a6bf8a4f0a3b3faf2/HeadHunter.svg" title="HackerRank" alt="HackerRank" width="40" height="40" "backgraungd=white"/></a>&nbsp;
+  <a  href="https://bryansk.hh.ru/resume/51928eadff09636dc70039ed1f79724e454166"><img src="https://github.com/iymtee/icons/blob/e1acb3292ad3d67d7545f5c756a6f9436cb10fc9/HeadHunter.svg" title="HackerRank" alt="HackerRank" width="40" height="40" "backgraungd=white"/></a>&nbsp;
 </div>

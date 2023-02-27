@@ -12,5 +12,5 @@ I'm Junior Developer <img src="https://media.giphy.com/media/LU5Bi4kbqJOFPpSmyF/
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/benc-uk/icon-collection/blob/master/logos/logo_sql.svg" title="T-SQL&ManagmentStudio" alt="T-SQL&ManagmentStudio" width="40" height="40" "backgraungd=white"/>&nbsp;
-<img src="https://github.com/iymtee/icons/blob/361fdebcae53eb23751e3fadba11be2f6d8b84c7/hackerrank.svg" title="HackerRank" alt="HackerRank" width="40" height="40" "backgraungd=white" href="https://www.hackerrank.com/iymtree?hr_r=1"/>&nbsp;
+<a  href="https://www.hackerrank.com/iymtree?hr_r=1"><img src="https://github.com/iymtee/icons/blob/361fdebcae53eb23751e3fadba11be2f6d8b84c7/hackerrank.svg" title="HackerRank" alt="HackerRank" width="40" height="40" "backgraungd=white"/></a>&nbsp;
 </div>

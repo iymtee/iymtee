@@ -2,7 +2,7 @@
 
 I'm Junior Developer <img src="https://media.giphy.com/media/LU5Bi4kbqJOFPpSmyF/giphy.gif" width="30">:
 
-- :information_source: I’m working as a teacher of special disciplines (informatics, basics of algorithmization and programming and somemore)
+- :information_source: I’m working as a QA
 - :ledger: Exploring Python.
 - :brain: I know basics of OOP, C# and T-SQL.
 - :game_die: In my free time, I play in board games with friends and read.
